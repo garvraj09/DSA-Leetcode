@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

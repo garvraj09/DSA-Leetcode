@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

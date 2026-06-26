@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting

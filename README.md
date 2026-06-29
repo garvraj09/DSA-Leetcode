@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/garvraj09/DSA-Leetcode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvraj09/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/garvraj09/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/garvraj09/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/garvraj09/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/garvraj09/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |

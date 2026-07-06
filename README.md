@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/garvraj09/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/garvraj09/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/garvraj09/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/garvraj09/DSA-Leetcode/tree/master/0075-sort-colors) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/garvraj09/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## Memoization
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/garvraj09/DSA-Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

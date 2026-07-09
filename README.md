@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/garvraj09/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/garvraj09/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/garvraj09/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

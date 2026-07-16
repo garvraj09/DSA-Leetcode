@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/garvraj09/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |

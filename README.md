@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/garvraj09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1260-shift-2d-grid](https://github.com/garvraj09/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/garvraj09/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/garvraj09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/garvraj09/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvraj09/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/garvraj09/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/garvraj09/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |

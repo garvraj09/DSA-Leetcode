@@ -2,7 +2,6 @@ class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> comb = new ArrayList<>();
-        int i = 0;
 
         getAllComb(k, n, 1, ans, comb);
         return ans;

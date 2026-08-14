@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/garvraj09/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/garvraj09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/garvraj09/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/garvraj09/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/garvraj09/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/garvraj09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/garvraj09/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/garvraj09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |

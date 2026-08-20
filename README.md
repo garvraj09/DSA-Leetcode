@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/garvraj09/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/garvraj09/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvraj09/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -165,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/garvraj09/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

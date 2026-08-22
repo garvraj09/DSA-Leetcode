@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/garvraj09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/garvraj09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2104-sum-of-subarray-ranges](https://github.com/garvraj09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/garvraj09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/garvraj09/DSA-Leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/garvraj09/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |

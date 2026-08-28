@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvraj09/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/garvraj09/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/garvraj09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvraj09/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvraj09/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/garvraj09/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/garvraj09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvraj09/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |

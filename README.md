@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/garvraj09/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/garvraj09/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0860-lemonade-change](https://github.com/garvraj09/DSA-Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/garvraj09/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/garvraj09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/garvraj09/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/garvraj09/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/garvraj09/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/garvraj09/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/garvraj09/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/garvraj09/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/garvraj09/DSA-Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -458,5 +462,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/garvraj09/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

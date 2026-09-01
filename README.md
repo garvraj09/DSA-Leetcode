@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/garvraj09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvraj09/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvraj09/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/garvraj09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvraj09/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvraj09/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/garvraj09/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/garvraj09/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0136-single-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/garvraj09/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/garvraj09/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/garvraj09/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/garvraj09/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Indexed Tree
 |  |
 | ------- |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
 | [0860-lemonade-change](https://github.com/garvraj09/DSA-Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/garvraj09/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/garvraj09/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/garvraj09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/garvraj09/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvraj09/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvraj09/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/garvraj09/DSA-Leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -488,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

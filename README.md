@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/garvraj09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/garvraj09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/garvraj09/DSA-Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/garvraj09/DSA-Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0796-rotate-string) |
 ## Tree
 |  |
@@ -496,4 +498,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/garvraj09/DSA-Leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/garvraj09/DSA-Leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/garvraj09/DSA-Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->

@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvraj09/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/garvraj09/DSA-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/garvraj09/DSA-Leetcode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |

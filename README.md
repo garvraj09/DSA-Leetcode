@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/garvraj09/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvraj09/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/garvraj09/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/garvraj09/DSA-Leetcode/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/garvraj09/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |

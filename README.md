@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/garvraj09/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/garvraj09/DSA-Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/garvraj09/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/garvraj09/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/garvraj09/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/garvraj09/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/garvraj09/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |

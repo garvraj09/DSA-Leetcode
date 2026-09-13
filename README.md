@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/garvraj09/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/garvraj09/DSA-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0706-design-hashmap) |
+| [0835-image-overlap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/garvraj09/DSA-Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/garvraj09/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/garvraj09/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/garvraj09/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garvraj09/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/garvraj09/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/garvraj09/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List

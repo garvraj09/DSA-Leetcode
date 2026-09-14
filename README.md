@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/garvraj09/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/garvraj09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/garvraj09/DSA-Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -533,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/garvraj09/DSA-Leetcode/tree/master/0686-repeated-string-match) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

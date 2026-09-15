@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/garvraj09/DSA-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvraj09/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/garvraj09/DSA-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvraj09/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvraj09/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/garvraj09/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0136-single-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/garvraj09/DSA-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/garvraj09/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |

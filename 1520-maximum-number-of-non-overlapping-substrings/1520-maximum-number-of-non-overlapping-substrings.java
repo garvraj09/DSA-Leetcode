@@ -1,8 +1,5 @@
-import java.util.*;
-
 class Solution {
     public List<String> maxNumOfSubstrings(String s) {
-
         int n = s.length();
 
         int[] first = new int[26];

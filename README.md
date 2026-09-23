@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/garvraj09/DSA-Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2652-sum-multiples](https://github.com/garvraj09/DSA-Leetcode/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/garvraj09/DSA-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |

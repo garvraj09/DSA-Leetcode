@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/garvraj09/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0493-reverse-pairs) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/garvraj09/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/garvraj09/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/garvraj09/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/garvraj09/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/garvraj09/DSA-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/garvraj09/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |

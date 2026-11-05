@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/garvraj09/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

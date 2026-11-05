@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/garvraj09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/garvraj09/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/garvraj09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/garvraj09/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/garvraj09/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/garvraj09/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvraj09/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/garvraj09/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/garvraj09/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/garvraj09/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/garvraj09/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/garvraj09/DSA-Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/garvraj09/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/garvraj09/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/garvraj09/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/garvraj09/DSA-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/garvraj09/DSA-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |

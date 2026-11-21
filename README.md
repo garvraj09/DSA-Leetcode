@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/garvraj09/DSA-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/garvraj09/DSA-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/garvraj09/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvraj09/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/garvraj09/DSA-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/garvraj09/DSA-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/garvraj09/DSA-Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvraj09/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/garvraj09/DSA-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/garvraj09/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/garvraj09/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvraj09/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/garvraj09/DSA-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvraj09/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/garvraj09/DSA-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvraj09/DSA-Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/garvraj09/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvraj09/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/garvraj09/DSA-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/garvraj09/DSA-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/garvraj09/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/garvraj09/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/garvraj09/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/garvraj09/DSA-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/garvraj09/DSA-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |

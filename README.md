@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/garvraj09/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/garvraj09/DSA-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2974-minimum-number-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/garvraj09/DSA-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/garvraj09/DSA-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/garvraj09/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/garvraj09/DSA-Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3360-stone-removal-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/garvraj09/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/garvraj09/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/garvraj09/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2974-minimum-number-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/garvraj09/DSA-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/garvraj09/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvraj09/DSA-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/garvraj09/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/garvraj09/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvraj09/DSA-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2974-minimum-number-game](https://github.com/garvraj09/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/garvraj09/DSA-Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/garvraj09/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
